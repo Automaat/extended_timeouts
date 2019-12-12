@@ -1,0 +1,1 @@
+## Simple socket server with client written to simulate how timeouts work in java 
