@@ -23,7 +23,7 @@ public class Main {
                     for (int i = 0; i < 200; i++) {
                         outputStream.write(test);
                         //simulating slow connection
-                        sleep(90);
+                        sleep(50);
                     }
                     outputStream.close();
                 }
